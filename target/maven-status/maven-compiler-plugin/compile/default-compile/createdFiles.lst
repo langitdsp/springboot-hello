@@ -1,0 +1,5 @@
+com\asterx\medirecords\model\User.class
+com\asterx\medirecords\repository\UserRepository.class
+com\asterx\medirecords\Application.class
+com\asterx\medirecords\rest\UserRest.class
+com\asterx\medirecords\rest\HomeRest.class
