@@ -26,6 +26,8 @@ services:
       dockerfile: Dockerfile
     environment:
       MESSAGE: lalala
+      MONGO_USERNAME: root
+      MONGO_PASSWORD: example
     ports:
       - 8080:8080
 
